@@ -28,7 +28,7 @@ John Doe is 23 and a Computer Science major student attending CSU Chico. He is b
 
 ## Scenarios
 
-### Scenario 1
+### Scenario
 John Doe starts a new semester at CSU Chico hoping that he will be more engage this semester. The professors in his class announces that they would be trying out something new, a software that the students will be using to help them with the course and keep track of their progress for the rest of the semester. The software is a game that is course-related and has gaming elements that keep John engage throughout the course.
 
 ## Supplementary Materials
