@@ -1,10 +1,10 @@
-# Project Name
+# Gamification
 
-Introduction - a brief summary of the general problem being studied and addressed
+Sometimes learning can be dull and boring; reading textbooks can put people to sleep. One solution to this is gamification, the idea of adding game elements to learning environments to keep students intrigue. The purpose of this project is to create a software that implements this idea and hopefully boosts students engagement in learning.
 
 ## Team Members
 
-* **Full Name 1** - Summary of contributions
+* **Gary Her** - Summary of contributions
 * **Full Name 2** - Summary of contributions
 
 ## Phase 1: User Inquiry and Inspection
