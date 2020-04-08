@@ -4,7 +4,7 @@ Sometimes learning can be dull and boring; reading textbooks can put people to s
 
 ## Team Members
 
-* **Gary Her** - Everything
+* **Gary Her** - Phase 1
 
 ## Phase 1: User Inquiry and Inspection
 
