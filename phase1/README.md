@@ -1,29 +1,36 @@
-# Team Name, Phase 1: User Inquiry and Inspection
+# Gamification, Phase 1: User Inquiry and Inspection
 
 ## Methods
 
-Describe (A) Methods you used (B) Why you used them, and (C) Number of users (e.g. n=10) for each method
+The method I decided to use is a survey because the other methods are not possible or near impossible to do anymore due to the coronavirus epidemic. Another reason why I chose to use a survey is because it will be easier to find out information without being too intrusive. I have 20 responses in my survey.
 
 ## Findings
 
-For each method, describe the users you collected data from (demographics and how they represent your user base) and summarize the findings point-by-point (for example, the distribution of answers for a multiple-choice question). If you are researching existing software and/or competitor software, you may want to include pictures with call-outs that point out both important features and flaws within the interface.
+From my survey I found that:
+
+1) The majority of respondents have average or above average experience with video games. Since most people have experience with video games, adding gaming elements to learning may have a positive impact to students.
+2) The majority of respondents like action, adventure, and fps games. This may mean that people like an interactive experience when playing games.
+3) The majority of respondents answered that they are mixed when being questioned if they are a casual or competitive player.
+4) The majority of respondents prefered exploration than beating than others, getting achievements, or improving when playing games.  
 
 ## Conclusions
 
-Discoveries derived from the method(s). For example, explain a requirement (e.g. “Task X needs to be accomplished with fewer steps. . . ”) based on a finding (e.g. “. . . because in our contextual inquiry, we found it was what the users did most often and complained about extraneous work needed to complete it”)
+In conclusion, I found that people like an interactive experience, whether it is casually or competitively, and the ability to explore and see new things. By creating a game that allows students to be interactive in learning may improve their understanding and experience.
 
 ## Caveats
 
-Considerations and/or limitations to the method(s) you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc.
+A limitation to surveys that I have found is that you might want to ask more questions after seeing the answers from the survey. You might see a trend in some questions and wonder why they chose those answer, in which an interview might actually be the better choice.
 
 ## Personas
 
-Provide each of your user personas, which represent (potential) users of your software; explain how you derived these personas from your user inquiry
+### John Doe
+John Doe is 23 and a Computer Science major student attending CSU Chico. He is bright student and have always gotten good grades, but lately he has been feeling off. For some reason, it has been getting a bit tougher for him to be engage in class. A hobby of his is playing video games and he has been wondering if there is any way to get him to be more engage in class as he is to video games.   
 
 ## Scenarios
 
-Identify the primary scenarios for your software and for each, include a description that explains who (of your personas) and what they want to do
+### Scenario 1
+John Doe starts a new semester at CSU Chico hoping that he will be more engage this semester. The professors in his class announces that they would be trying out something new, a software that the students will be using to help them with the course and keep track of their progress for the rest of the semester. The software is a game that is course-related and has gaming elements that keep John engage throughout the course.
 
 ## Supplementary Materials
 
-Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a survey, protocol for an interview or contextual inquiry, etc)
+[Survey](https://docs.google.com/forms/d/e/1FAIpQLSdIdxMTZ-4D06IGucfrFapeHNmFYd5wplqilmZD8l2r-hR3Gg/viewform?vc=0&c=0&w=1)
